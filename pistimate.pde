@@ -2,7 +2,7 @@
  * PI-stimator *
  ***************/
 //last updated 03/14/2020
-import java.math.*;
+
 float sampleSize = 1000;
 int[] xPoints = new int[(int)sampleSize];
 int[] yPoints = new int[(int)sampleSize];
